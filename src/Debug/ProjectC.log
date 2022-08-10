@@ -1,0 +1,128 @@
+﻿  rlgl.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1157): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1157): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1157): error C2146: syntax error: missing ',' before identifier 'glAccum'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1157): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1157): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1158): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1158): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1158): error C2146: syntax error: missing ',' before identifier 'glAlphaFunc'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1158): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1158): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1159): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1159): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1159): error C2146: syntax error: missing ',' before identifier 'glAreTexturesResident'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1159): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1159): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1160): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1160): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1160): error C2146: syntax error: missing ',' before identifier 'glArrayElement'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1160): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1160): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1161): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1161): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1161): error C2146: syntax error: missing ',' before identifier 'glBegin'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1161): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1161): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1162): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1162): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1162): error C2146: syntax error: missing ',' before identifier 'glBindTexture'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1162): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1162): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1163): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1163): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1163): error C2146: syntax error: missing ',' before identifier 'glBitmap'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1163): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1163): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1164): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1164): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1164): error C2146: syntax error: missing ',' before identifier 'glBlendFunc'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1164): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1164): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1165): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1165): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1165): error C2146: syntax error: missing ',' before identifier 'glCallList'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1165): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1165): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1166): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1166): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1166): error C2146: syntax error: missing ',' before identifier 'glCallLists'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1166): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1166): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1167): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1167): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1167): error C2146: syntax error: missing ',' before identifier 'glClear'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1167): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1167): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1168): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1168): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1168): error C2146: syntax error: missing ',' before identifier 'glClearAccum'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1168): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1168): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1169): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1169): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1169): error C2146: syntax error: missing ',' before identifier 'glClearColor'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1169): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1169): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1170): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1170): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1170): error C2146: syntax error: missing ',' before identifier 'glClearDepth'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1170): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1170): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1171): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1171): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1171): error C2146: syntax error: missing ',' before identifier 'glClearIndex'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1171): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1171): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1172): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1172): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1172): error C2146: syntax error: missing ',' before identifier 'glClearStencil'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1172): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1172): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1173): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1173): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1173): error C2146: syntax error: missing ',' before identifier 'glClipPlane'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1173): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1173): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1174): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1174): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1174): error C2146: syntax error: missing ',' before identifier 'glColor3b'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1174): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1174): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1175): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1175): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1175): error C2146: syntax error: missing ',' before identifier 'glColor3bv'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1175): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1175): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1176): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1176): error C2085: 'APIENTRY': not in formal parameter list
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1176): error C2146: syntax error: missing ',' before identifier 'glColor3d'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1176): error C2143: syntax error: missing ';' before '('
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1176): error C2059: syntax error: ')'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1177): error C2054: expected '(' to follow 'WINGDIAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\GL/gl.h(1177): fatal error C1003: error count exceeds 100; stopping compilation
+  android_native_app_glue.c
+external\android\native_app_glue\android_native_app_glue.c(18): fatal error C1083: Cannot open include file: 'jni.h': No such file or directory
+  core.c
+c:\raylib\raylib\src\raymath.h(886): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(892): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(896): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(897): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(898): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(903): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(882): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(883): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(884): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(940): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(941): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(942): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(924): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(925): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(926): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(1020): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(1097): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\raylib\raylib\src\raymath.h(1098): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+core.c(142): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  audio.c
+audio.c(87): fatal error C1083: Cannot open include file: 'AL/al.h': No such file or directory
+  Generating Code...
